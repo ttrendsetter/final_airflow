@@ -1,0 +1,10 @@
+Pipfile
+Pipfile.lock
+/plugins/
+/logs/
+/dags/groups.py
+/dags/homeworks.py
+/pycache/
+docker-compose.yaml
+.idea
+.env
