@@ -4,7 +4,7 @@ Pipfile.lock
 /logs/
 /dags/groups.py
 /dags/homeworks.py
-/pycache/
+/__pycache__/
 docker-compose.yaml
 .idea
 .env
